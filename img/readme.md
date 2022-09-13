@@ -1,0 +1,1 @@
+# This is a directory to store images used in documents
