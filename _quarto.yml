@@ -1,5 +1,13 @@
 project:
   title: "nres800-quarto-assignment"
-
+  output-dir: _output
+format:
+  html:
+    html-math-method: katex
+    self-contained: true
+  pdf:
+    documentclass: report
+    margin-left: 30mm
+    margin-right: 30mm
 
 
